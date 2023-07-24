@@ -1,0 +1,31 @@
+body {
+  font-family: "Courier New", Times, serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+
+h3 {
+  background-color: rgb(136, 255, 0);
+}
+
+.recipes-index {
+  display: table;
+  margin: 0 auto;
+}
+
+ul {
+  font-size: 20px;
+}
+
+.asado,
+.carnitas,
+.chicken-mole {
+  width: 500;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
